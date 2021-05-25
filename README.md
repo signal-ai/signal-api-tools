@@ -10,4 +10,4 @@ This repo provides you with tools to quickly learn about the main feautures in t
 
 1. [Getting Started with the Search endpoint](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/getting_started.ipynb)
 1. [Getting Started with Affinity endpoints](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/affinity_tutorial.ipynb)
-1. [Getting Started with the Trends endpoint](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/trends_tutorial.ipynb)
+1. [Getting Started with the Metrics endpoint](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/metrics_tutorial.ipynb)
