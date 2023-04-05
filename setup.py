@@ -1,7 +1,7 @@
-import setuptools
+from setuptools import setup, find_packages
 
-setuptools.setup(
+setup(
     name="signal-api-tools",
-    packages=setuptools.find_packages(),
+    packages=find_packages(),
     python_requires='>=3.7',
 )
