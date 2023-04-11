@@ -233,4 +233,4 @@ class Connection:
                 yield event
 
     def get_event(self, event_hash):
-        return self._request("GET", f"events/{event_hash}").json()
+        return self._request("GET", f"events/{event_hash}").json().get("event")
