@@ -11,6 +11,7 @@ The following notebooks will help you get up to speed with the main features of 
 1. [Getting Started with the Search API](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/getting_started.ipynb)
 1. [Getting Started with the Metrics API](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/metrics_tutorial.ipynb)
 1. [Getting Started with the Affinity API](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/affinity_tutorial.ipynb)
+1. [Getting Started with the Events API](https://github.com/signal-ai/signal-api-tools/blob/master/notebooks/events_tutorial.ipynb)
 
 Make sure you install the dependencies beforehand:
 
