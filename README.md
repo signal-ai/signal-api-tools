@@ -16,3 +16,8 @@ The following notebooks will help you get up to speed with the main features of 
 Make sure you install the dependencies beforehand:
 
 `pip install -e . -r requirements.txt`
+
+## Disclaimer
+These example tools are provided "as is", without warranty of any kind. They were created to demonstrate how one could
+interact with the Signal AI API. All integration of the Signal AI API should ultimately use the latest version of the
+[documentation](https://api.signal-ai.com/docs/) as reference.
